@@ -1,0 +1,7 @@
+<scene>
+    <!-- 16:9の長方形を作り、カメラの映像をこのオブジェクトに表示する -->
+    <object
+        height="1.8"
+        id="@+id/camera"
+        width="3.2"/>
+</scene>
